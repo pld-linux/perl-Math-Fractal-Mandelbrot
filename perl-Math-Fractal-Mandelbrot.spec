@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Fractal-Mandelbrot
 Summary:	Math::Fractal::Mandelbrot - calculate points in the Mandelbrot fractal
-Summary(pl):	Math::Fractal::Mandelbrot - obliczanie punktÛw we fraktalu Mandelbrota
+Summary(pl.UTF-8):   Math::Fractal::Mandelbrot - obliczanie punkt√≥w we fraktalu Mandelbrota
 Name:		perl-Math-Fractal-Mandelbrot
 Version:	0.02
 Release:	1
@@ -23,9 +23,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This module calculates points, horizontal/vertical stripes or
 rectangular areas of the famous Mandelbrot fractal.
 
-%description -l pl
-Ten modu≥ oblicza punkty, poziome lub pionowe pasy lub prostok±tne
-obszary s≥ynnego fraktala Mandelbrota.
+%description -l pl.UTF-8
+Ten modu≈Ç oblicza punkty, poziome lub pionowe pasy lub prostokƒÖtne
+obszary s≈Çynnego fraktala Mandelbrota.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
