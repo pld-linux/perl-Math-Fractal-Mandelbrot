@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	Fractal-Mandelbrot
 Summary:	Math::Fractal::Mandelbrot - calculate points in the Mandelbrot fractal
-Summary(pl.UTF-8):   Math::Fractal::Mandelbrot - obliczanie punktów we fraktalu Mandelbrota
+Summary(pl.UTF-8):	Math::Fractal::Mandelbrot - obliczanie punktów we fraktalu Mandelbrota
 Name:		perl-Math-Fractal-Mandelbrot
 Version:	0.02
 Release:	1
