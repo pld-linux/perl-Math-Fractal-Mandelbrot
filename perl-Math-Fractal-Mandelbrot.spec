@@ -58,6 +58,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Math/Fractal/Mandelbrot.pm
 %dir %{perl_vendorarch}/auto/Math/Fractal
 %dir %{perl_vendorarch}/auto/Math/Fractal/Mandelbrot
-%{perl_vendorarch}/auto/Math/Fractal/Mandelbrot/Mandelbrot.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Math/Fractal/Mandelbrot/Mandelbrot.so
 %{_mandir}/man3/*
