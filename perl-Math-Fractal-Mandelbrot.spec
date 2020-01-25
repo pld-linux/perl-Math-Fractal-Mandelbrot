@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests	# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Math
 %define		pnam	Fractal-Mandelbrot
 Summary:	Math::Fractal::Mandelbrot - calculate points in the Mandelbrot fractal
