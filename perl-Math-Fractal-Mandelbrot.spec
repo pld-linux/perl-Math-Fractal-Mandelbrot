@@ -8,7 +8,7 @@ Summary:	Math::Fractal::Mandelbrot - calculate points in the Mandelbrot fractal
 Summary(pl.UTF-8):	Math::Fractal::Mandelbrot - obliczanie punktów we fraktalu Mandelbrota
 Name:		perl-Math-Fractal-Mandelbrot
 Version:	0.04
-Release:	15
+Release:	16
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
